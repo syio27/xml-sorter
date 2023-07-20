@@ -1,0 +1,713 @@
+<PolMessage>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub1"/>
+		<InsurerRatingFactor_VehiclePrn Val="1.0"/>
+		<InsurerRatingFactor_Number Val="98.0"/>
+		<InsurerRatingFactor_DriverPrn Val="1.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub2"/>
+		<InsurerRatingFactor_Number Val="98.0"/>
+		<InsurerRatingFactor_DriverPrn Val="1.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub3"/>
+		<InsurerRatingFactor_Number Val="150.0"/>
+		<InsurerRatingFactor_DriverPrn Val="1.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub4"/>
+		<InsurerRatingFactor_Date Val="16/02/2023"/>
+		<InsurerRatingFactor_VehiclePrn Val="1.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub5"/>
+		<InsurerRatingFactor_Date Val="04/06/2011"/>
+		<InsurerRatingFactor_VehiclePrn Val="1.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub6"/>
+		<InsurerRatingFactor_VehiclePrn Val="1.0"/>
+		<InsurerRatingFactor_Number Val="0.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub7"/>
+		<InsurerRatingFactor_VehiclePrn Val="1.0"/>
+		<InsurerRatingFactor_Number Val="0.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub8"/>
+		<InsurerRatingFactor_VehiclePrn Val="1.0"/>
+		<InsurerRatingFactor_Number Val="2.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub9"/>
+		<InsurerRatingFactor_VehiclePrn Val="1.0"/>
+		<InsurerRatingFactor_Text Val="O"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub10"/>
+		<InsurerRatingFactor_VehiclePrn Val="1.0"/>
+		<InsurerRatingFactor_Number Val="0.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub11"/>
+		<InsurerRatingFactor_VehiclePrn Val="1.0"/>
+		<InsurerRatingFactor_Number Val="0.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="Product"/>
+		<InsurerRatingFactor_VehiclePrn Val="1.0"/>
+		<InsurerRatingFactor_Text Val="-999"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub20"/>
+		<InsurerRatingFactor_Date Val="24/03/2004"/>
+		<InsurerRatingFactor_VehiclePrn Val="1.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub21"/>
+		<InsurerRatingFactor_VehiclePrn Val="1.0"/>
+		<InsurerRatingFactor_Number Val="0.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub22"/>
+		<InsurerRatingFactor_VehiclePrn Val="1.0"/>
+		<InsurerRatingFactor_Text Val="99"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub31"/>
+		<InsurerRatingFactor_VehiclePrn Val="1.0"/>
+		<InsurerRatingFactor_Text Val="No"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="Vehicle 1 Policyholder"/>
+		<InsurerRatingFactor_VehiclePrn Val="1.0"/>
+		<InsurerRatingFactor_Text Val="P"/>
+		<InsurerRatingFactor_DriverPrn Val="1.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub35"/>
+		<InsurerRatingFactor_Text Val=""/>
+		<InsurerRatingFactor_Number Val="3.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub110"/>
+		<InsurerRatingFactor_Text Val="137  M        T T  M M  M M M T  T        0 T T T M M T T M 0 0 0 0 0 0 0 0 0 0 0 0 0 M M T MM T T T T        T T 0 0 T T M T M  TT 0 0 M T  T  T T T T T T T T T 512  T        -9111M M        "/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub111"/>
+		<InsurerRatingFactor_Text Val="T             -7996M299  T T T T     T        T  M     M T        T T T T T T T T  M        M  M  M  M  M        M        M        M        M        M        M        M        M        M        M        "/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub112"/>
+		<InsurerRatingFactor_Text Val="M        M        M        M        M        M      M        M        M        M    M    M        M        M        M        M      M      M M    M        M        M        M        M        M        "/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub113"/>
+		<InsurerRatingFactor_Text Val="M        M        M        M M        M  M  M  M        M        M        M        M        M        M        M        M        M        M        M        M    M        M        M        M        M        "/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub114"/>
+		<InsurerRatingFactor_Text Val="M        M        M        M    M    M        M        M      M        M    M        M        M        M        M        M        M        M        M M M    M        M        M        M        M -8996"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub115"/>
+		<InsurerRatingFactor_Text Val="M M M M        M M M M M        M M        M T T T T T T T T T T T  T T T T T T        T T        T T T T T        T T T T T T T  T T        T T T T T        M M M M M M M M M M M M M T T        T "/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub116"/>
+		<InsurerRatingFactor_Text Val="T        T        T T T T T 172  T        T        T T 282  282  MM      M      M        M        M        M M        M        M        M      M      M        M    M        M        MM        M      "/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub117"/>
+		<InsurerRatingFactor_Text Val="M      M      M        M        M        M      M        M        M        M        M        MM        T MM T 206  M MM        M M MM        MM        M        M MM        M M        M        M        "/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub118"/>
+		<InsurerRatingFactor_Text Val="M        M M M        T        T        T        T        T        T        TT        T        TTT TT        T        T        TT TM M        M        M        M        M        M      M M        "/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub119"/>
+		<InsurerRatingFactor_Text Val="M        M M        M        M        M M      T        T        T        T        T        T T        T        T        TTT        T        T        T        T T        T        T        T        T        T"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub120"/>
+		<InsurerRatingFactor_Text Val="T T        T        T        T        276  M      M        M        M        M        MM        M        M        M   M        M        M        M        M        M        M        M        M        "/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub121"/>
+		<InsurerRatingFactor_Text Val="M        M        M        M        M M    M   M        M        M        M        M        M        MM        M        M M        MM        M        M        M M -7996M        M       M M       M  M  "/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub122"/>
+		<InsurerRatingFactor_Text Val="MM        MM M M  M        M        M T T T T        T T        T T TT T        T        T T T  T  TT        T        T        T M        M M M   M   M        M        M        M M        T T T T T T "/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub123"/>
+		<InsurerRatingFactor_Text Val="TTT        T        T        T T T TT T T T T TT   T T T M M        304  304  278  M        M        M        M        T        T        M        M        M M        T        T        T        MMMMM  "/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub124"/>
+		<InsurerRatingFactor_Text Val="MMMMMM155  N295       M M T T T T T T T M T M        M        M      M      M        M        M      M        M    M        M        M        M        M      M      M        M      M    M        "/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub125"/>
+		<InsurerRatingFactor_Text Val="M              M  M   M   M        M      M M M M M M M M M M M M M M M M M M M M M M M M M M  M  M M M M M M M M M M M M M 435  -8996276  381  244  244  MM M  T        T        M        M  T        T  "/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub126"/>
+		<InsurerRatingFactor_Text Val="M        MM  T     T  T        MM      M M M M M   M  90M  M M M M M T T M M MM T T T M  M        M        M        M MMMMM   MMMM      M        M        M        M        M      M M        MMMMMM   MMMN"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub127"/>
+		<InsurerRatingFactor_Text Val="MMM   M        MMMM      M        M        M        M M M   M        M        M        MMMMM        M        MMMMMMM        M   M M M M M M        MMM        M        TTTTTTTMMMMMM MMMTTTTTM M   MM "/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub128"/>
+		<InsurerRatingFactor_Text Val="M   M   M   M        M M M M M   M M  M  M M M  M  MMMMMMMMMMMM M M M        M        M        M   MMM   MMMMMM M MM   M   T   TT   T T T T T TTTTTTTTTTT T   T   T   TTTTTTTTTMMM        TTM  M  "/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub129"/>
+		<InsurerRatingFactor_Text Val="M        M M MM  MMMMMMM M        MM        M M M        M  M   MMMM        M        M  M  M  M  M  M  M  M  M  M  M        M        M        M  M   M        M        M        M        M        M        "/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub130"/>
+		<InsurerRatingFactor_Text Val="M        M        M        M        M        M        M        M        M        M        M        M        M        M        M  M  M  M  M        M        M        M  M  M  M        M        M        "/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub131"/>
+		<InsurerRatingFactor_Text Val="M    M M  MM  M       M T M M M T "/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub62"/>
+		<InsurerRatingFactor_Date Val="21/02/2023"/>
+		<InsurerRatingFactor_VehiclePrn Val="1.0"/>
+		<InsurerRatingFactor_Text Val="0020160010210019570019580020870009950004909.561306220True000780003028021078002000000000000000175557"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub59"/>
+		<InsurerRatingFactor_VehiclePrn Val="1.0"/>
+		<InsurerRatingFactor_Text Val="-999"/>
+		<InsurerRatingFactor_Number Val="2.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub52"/>
+		<InsurerRatingFactor_VehiclePrn Val="1.0"/>
+		<InsurerRatingFactor_Text Val="-999"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub53"/>
+		<InsurerRatingFactor_VehiclePrn Val="1.0"/>
+		<InsurerRatingFactor_Text Val="-999"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub54"/>
+		<InsurerRatingFactor_VehiclePrn Val="1.0"/>
+		<InsurerRatingFactor_Text Val="-999"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub132"/>
+		<InsurerRatingFactor_VehiclePrn Val="1.0"/>
+		<InsurerRatingFactor_Text Val="-999"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub9_ECI"/>
+		<InsurerRatingFactor_Text Val="-995"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub10_ECI"/>
+		<InsurerRatingFactor_Number Val="-995.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub11_ECI"/>
+		<InsurerRatingFactor_Number Val="-995.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub52_ECI"/>
+		<InsurerRatingFactor_Text Val="-995"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub53_ECI"/>
+		<InsurerRatingFactor_Text Val="-995"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub54_ECI"/>
+		<InsurerRatingFactor_Text Val="-995"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub55_ECI"/>
+		<InsurerRatingFactor_Text Val="-995"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub56_ECI"/>
+		<InsurerRatingFactor_Text Val="-995"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub57_ECI"/>
+		<InsurerRatingFactor_Text Val="-995"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub58_ECI"/>
+		<InsurerRatingFactor_Text Val="-995"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DaysToInception_ECI"/>
+		<InsurerRatingFactor_Number Val="-995.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHubPolV_ECI"/>
+		<InsurerRatingFactor_Text Val="-995"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="QuoteToInception_ECI"/>
+		<InsurerRatingFactor_Date Val="01/01/1995"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="OriginalEffectiveDate_ECI"/>
+		<InsurerRatingFactor_Date Val="01/01/1995"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="VehicleABI_ECI"/>
+		<InsurerRatingFactor_Text Val="-995"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="OriginalPurchaseChannel_ECI"/>
+		<InsurerRatingFactor_Text Val="-995"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="AnnualisedNetLYP_ECI"/>
+		<InsurerRatingFactor_Number Val="-995.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="CAP-COL_ECI"/>
+		<InsurerRatingFactor_Number Val="-995.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="QuoteRef_ECI"/>
+		<InsurerRatingFactor_Text Val="-995"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="InvitedPaymentType_ECI"/>
+		<InsurerRatingFactor_Text Val="-995"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="InvitedBrand_ECI"/>
+		<InsurerRatingFactor_Text Val="-995"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="RenewalInception_ECI"/>
+		<InsurerRatingFactor_Date Val="01/01/1995"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="InviteDate_ECI"/>
+		<InsurerRatingFactor_Date Val="01/01/1995"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="BrokerTenure_ECI"/>
+		<InsurerRatingFactor_Number Val="-995.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="InsurerTenure_ECI"/>
+		<InsurerRatingFactor_Text Val="-995"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="InvitedInsurer_ECI"/>
+		<InsurerRatingFactor_Text Val="-995"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="PolicyNo_ECI"/>
+		<InsurerRatingFactor_Text Val="-995"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="AnnualisedMTAEquivalant_ECI"/>
+		<InsurerRatingFactor_Number Val="-995.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="InvitedNetPremium_ECI"/>
+		<InsurerRatingFactor_Text Val="-995"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="ECIMatchType"/>
+		<InsurerRatingFactor_Text Val="-995"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="IIL_C00156"/>
+		<InsurerRatingFactor_VehiclePrn Val="3.32334205292243E14"/>
+		<InsurerRatingFactor_Text Val="1Z0Z6059,MG4C1909,TIJ40000,0ZZZ8109,ZN0Z7114"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="C00027"/>
+		<InsurerRatingFactor_Text Val="QUER0997"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="C00050"/>
+		<InsurerRatingFactor_VehiclePrn Val="3.32334205294243E14"/>
+		<InsurerRatingFactor_Text Val="H1OA1939,H9MO6474,JOJY9999,AATI9999,MNG99973"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="QTE_C00156"/>
+		<InsurerRatingFactor_Date Val="14/07/2023"/>
+		<InsurerRatingFactor_Number Val="12.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub18"/>
+		<InsurerRatingFactor_Number Val="0.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub23"/>
+		<InsurerRatingFactor_Number Val="0.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub24"/>
+		<InsurerRatingFactor_Number Val="0.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub25"/>
+		<InsurerRatingFactor_Number Val="0.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub26"/>
+		<InsurerRatingFactor_Number Val="0.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub27"/>
+		<InsurerRatingFactor_Number Val="0.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub28"/>
+		<InsurerRatingFactor_Number Val="0.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub29"/>
+		<InsurerRatingFactor_Number Val="0.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub30"/>
+		<InsurerRatingFactor_Number Val="0.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub32"/>
+		<InsurerRatingFactor_Number Val="1.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub80"/>
+		<InsurerRatingFactor_Text Val="G04-1  -1 -1-1 -1-1-1-1-1 -1-1-1 -1T -1T -1TT-1 -1 -1-1-1 0 044 -1 -15 0 -1 -1-1 -1-1 -1-1-1-1-1-1-1-1-1-1T 0 0 0 0 0-1  -1 -1-1 0 0 0 0-1-1-1 -1-1-1-1 44-1 -1 9  627    68  2703  699  699  -1  -1     -1     -1     -1     -1     -1     -1     -1     -1     -1     -1 -1 -1 -1 -1 -1 -1 -1   -1   -1   -1   -1    -1    -1N -1 -1 -1     -1 -1 -1 -1     -1     -1   -1   -1   -1     -1     -1     -1    0 997 997  -1  -1        -1  -1  -1  -1  -1  -1  -1  -1        -1        -1        -1-1DFLT6     313      554      214     1381        0      300"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DEHub12"/>
+		<InsurerRatingFactor_Text Val="-998"/>
+		<InsurerRatingFactor_DriverPrn Val="1.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="MULTI_PRODUCT_FLAG"/>
+		<InsurerRatingFactor_Text Val="Y"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="SA_STATUS_CODE"/>
+		<InsurerRatingFactor_Text Val="SUCCESS"/>
+		<InsurerRatingFactor_Number Val="200.0"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="SRF199901_POL_ID_SCORE_2"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1"/>
+		<InsurerRatingFactor_Number Val="0.0"/>
+		<InsurerRatingFactor_RatingSource Val="FeatureStore"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="MRF225303_AVG_TOP5_MARKET_PRICE_MODEL"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1"/>
+		<InsurerRatingFactor_Number Val="244.86257785770488"/>
+		<InsurerRatingFactor_RatingSource Val="FeatureStore"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_APP_FLAG"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Number Val="0.0"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_COMMISSION"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Number Val="809.0"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_DD_CONTROL"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Number Val="1.0"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_DD_SCHEME"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Text Val="A"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_DRIVER_COUNT"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Number Val="1.0"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_DTI"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Number Val="25.0"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_ENTITLEMENT"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Number Val="1.0"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_GAPP_FLAG"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Number Val="0.0"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_HD_PREM"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Number Val="9999.0"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_HE_PREM"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Number Val="9999.0"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_HOLDOUT_GROUP"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Number Val="0.0"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_HP_PREM"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Number Val="9999.0"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_ID_SCORE"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Number Val="98.0"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_MARITAL_ST"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Number Val="4.0"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_MARKET_FACTOR"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Number Val="9.0"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_MARKET_FACTOR_HE"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Number Val="9.0"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_MATCH_TYPE"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Text Val="PARTIAL_R"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_MILEAGE"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Number Val="4000.0"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_MILE_DECLARE_STATUS"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Number Val="1.0"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_MULTI_TRADE"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Number Val="1.0"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_NCD"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Number Val="9.0"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_NO_OF_CLAIMS"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Number Val="0.0"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_NO_OF_CONV"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Number Val="0.0"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_OCCUPATION"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Number Val="0.0"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_PDBS_SCORE"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Number Val="61.2953681522481"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_POSTCODE"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Text Val="ex20 4bz"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_PRICE_FLEX"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Number Val="1.013"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_PRIVATE_CREDIT_SCORE"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Number Val="0.030715192"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_RATING_TOKEN"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Number Val="2.0"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_REBROKE_FLAG"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Number Val="0.0"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_RENEWAL_FLAG"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Number Val="0.0"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_RESIDENCY"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Number Val="1.0"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_TRADE"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Number Val="928.0"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_USE"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Number Val="2.0"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_VEHICLE_ABI"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Number Val="7025601.0"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="APPLKP_VERSION_ID"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.1.9.post101"/>
+		<InsurerRatingFactor_Number Val="101.0"/>
+		<InsurerRatingFactor_RatingSource Val="hastings_sirius_app_sqlite.lookup.applookup.Applookup"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="mrf000001_predicted_driving_behaviour_score"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.0.0"/>
+		<InsurerRatingFactor_Text Val="MEDIUM"/>
+		<InsurerRatingFactor_RatingSource Val="ands_predicted_driving_behaviour_score"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="mrf000002_predicted_driving_behaviour_score_prob_high"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.0.0"/>
+		<InsurerRatingFactor_Number Val="0.56"/>
+		<InsurerRatingFactor_RatingSource Val="ands_predicted_driving_behaviour_score"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="mrf000003_predicted_driving_behaviour_score_prob_low"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.0.0"/>
+		<InsurerRatingFactor_Number Val="0.13"/>
+		<InsurerRatingFactor_RatingSource Val="ands_predicted_driving_behaviour_score"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="mrf000004_predicted_driving_behaviour_score_prob_medium"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.0.0"/>
+		<InsurerRatingFactor_Number Val="0.31"/>
+		<InsurerRatingFactor_RatingSource Val="ands_predicted_driving_behaviour_score"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="DLN_FLAG"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.0.1"/>
+		<InsurerRatingFactor_Number Val="0.0"/>
+		<InsurerRatingFactor_RatingSource Val="digitalJourneyEnrichment"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="mrf000006_market_spread_model"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.0.0"/>
+		<InsurerRatingFactor_Number Val="0.8235424160957336"/>
+		<InsurerRatingFactor_RatingSource Val="mmworkstream"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="mrf000008_top5_model"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.0.0"/>
+		<InsurerRatingFactor_Number Val="281.8053894042969"/>
+		<InsurerRatingFactor_RatingSource Val="mmworkstream"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="mrf000009_top10_model"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.0.0"/>
+		<InsurerRatingFactor_Number Val="296.1037902832031"/>
+		<InsurerRatingFactor_RatingSource Val="mmworkstream"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="mrf000010_top20_model"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.0.0"/>
+		<InsurerRatingFactor_Number Val="289.1576843261719"/>
+		<InsurerRatingFactor_RatingSource Val="mmworkstream"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="mrf000007_number_brands_quoting_model"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.0.0"/>
+		<InsurerRatingFactor_Number Val="61.372154235839844"/>
+		<InsurerRatingFactor_RatingSource Val="mmworkstream"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="mrf000011_top_price_model"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.0.0"/>
+		<InsurerRatingFactor_Number Val="246.4124"/>
+		<InsurerRatingFactor_RatingSource Val="mmworkstream"/>
+	</InsurerRatingFactor>
+	<InsurerRatingFactor>
+		<InsurerRatingFactor_Code Val="mrf000005_cv_market_model_v1"/>
+		<InsurerRatingFactor_Date Val="28/03/2023"/>
+		<InsurerRatingFactor_VehicleRegistrationNumber Val="1.0.2"/>
+		<InsurerRatingFactor_Number Val="100.01"/>
+		<InsurerRatingFactor_DriverPrn Val="1.0"/>
+		<InsurerRatingFactor_RatingSource Val="mrf000005_cv_market_model_v1"/>
+	</InsurerRatingFactor>
+</PolMessage>
